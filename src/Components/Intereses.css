@@ -1,0 +1,44 @@
+.intereses-container {
+    background-color: thistle;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid steelblue;
+    border-radius: 10px;
+    margin: 20px auto; 
+    width: 80%;
+    max-width: 800px; 
+  }
+  
+  .intereses-title {
+    font-size: 44px; 
+    font-weight: bold;
+    margin-bottom: 10px;
+    color:slateblue;
+  }
+  
+  .intereses-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .interes {
+    text-align: center;
+    margin: 20px 0;
+  }
+  
+  .interes h2 {
+    font-size: 20px; 
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: tomato;
+  }
+  
+  .interes p {
+    font-size: 16px; 
+  }
+  

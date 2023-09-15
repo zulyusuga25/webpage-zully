@@ -1,0 +1,42 @@
+.desarrollador-container {
+    background-color: thistle;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid steelblue;
+    border-radius: 10px;
+    margin: 20px auto; 
+    width: 80%;
+    max-width: 800px; 
+  }
+  
+  .desarrollador-title {
+    font-size: 44px; 
+    font-weight: bold;
+    margin-bottom: 10px;
+    color:slateblue;
+  }
+  
+  .proyectos-container {
+    text-align: center;
+  }
+  
+  .proyectos-container h2 {
+    font-size: 40px; 
+  }
+  
+  .proyectos-container a {
+    color: crimson; 
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 26px;
+    margin-top: 10px;
+  }
+  
+  .proyectos-container a:hover {
+    text-decoration: underline;
+  }
+  
